@@ -1,0 +1,40 @@
+## Principais comandos Git / GitHub
+
+- **git init** - é o comando que você irá utilizar para criar um novo projeto de git.
+- **git clone** - é uma comando para baixar o código-fonte existente de um repositório remoto.
+- **git config** - quando utilizamos o Git pela primeira vez ou com uma instalação nova, em um projeto colaborativo, esse comando é fundamental para configurar sua identidade de usuário, inserindo informações como nome e email que serão empregadas em cada *commit*.
+- **git add** - esse comando Git adiciona os arquivos especificados de código ao seu repositório, sejam arquivos novos ou arquivos anteriores que foram alterados. 
+- **git commit** - O git commit executa o commit dos arquivos que foram adicionados e cria uma nova revisão com um log.
+- **git push** - Esse comando serve para subir suas modificações para um repositório remoto conectado anteriormente com git remote.
+- **git pull** -O comando Git pull baixa o conteúdo (não os metadados) do que foi alterado no repositório remoto para o seu repositório local e imediatamente atualiza seu contreúdo para a última versão.
+
+_Anotações diversas_
+
+**ls** / **dir –** Lista de diretorias dentro da pasta na qual está cituada
+
+**cd /** – Navegar entre as pastas
+
+**cd Windows** - Entrar nas pasta Windows dentro do C:
+
+**cd etc** – Pasta dentro do Linux
+
+**cd.**. - Sair da pasta 
+
+**cls /** **clear ou ctl+l** – limpar o terminal
+
+**TAB** – Alto completar
+
+**mkdir **(nome da pasta) - criar uma pasta ou criar um diretório
+
+**ls -a** - mostrar pasta oculta 
+
+↑ - ira mostrar os últimos comandos 
+
+**Chave SSH** - É uma forma segura de estabelecer conexão entre duas máquinas ou seja encriptada, irá se conectar com o servidor do github.
+
+**_Unmodified_** – Não sofreu modificação
+
+**_Modified_** – Sofreu modificação
+
+**_Staged_** – É os arquivos que estão se preparando para fazer parte de outro tipo de agrupamento.
+
