@@ -1,6 +1,6 @@
 # Meu primeiro repositório Git/GitHub
 
-**Material de apoio**
+- **Material de apoio**
 
 [_Desenvolvimento_]( https://academiapme-my.sharepoint.com/:p:/g/personal/nubia_dio_me/EYHcjptuOoNPs4qzd2upfmwBaLoG_FfSdzZH3zJiBvABiw?e=XYsmFR)
 
@@ -9,6 +9,14 @@
 [_Git/GitHub_](https://docs.github.com/pt/get-started/using-git)
 
 [_Pensamento Computacional_](https://drive.google.com/file/d/1vemC6G790JNte1882V53DAKEawJzVIWL/view)
+
+[Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+
+- **Downloads**
+
+[GIT](https://git-scm.com/downloads)
+
+
 
 
 
