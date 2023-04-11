@@ -11,5 +11,44 @@
 - **Front End –** Parte visual que o usuário pode interagir.
 
   ​      Tecnologias base da Web (HTML, CSS e JavaScript).
+- **_Frameworks_ –** É um facilitador, ele traz diversas soluções já pré-definidas que descomplica no desenvolvimento de aplicativos e outros projetos.
+            •	Angular – Usa coo base HTML, CSS e JavaScript
+            •	Laravel – Usa como base o PHP.
+            •	Vue.Js – Usa como base o JavaScript.
+            •	Java – Usa como base Spring boot.
+- **Back End –** É o que está por trás da aplicação. É uma ponte entre o banco de dados e navegador.
+        	  • Java
+            •	PHP
+            •	C#
+- **_API (Interface de Programação de aplicativos_** – a interface entre Front End e Back End ela é feita através de uma aplicação chamada API. É o caminho entre um aplicativo e outro. Normalmente é criada pelo dev. Back End.
+- **FullStack –** Tem o conhecimento na linguagem Front End e Back End. Não que vá necessária desenvolver os dois mas entende as duas áreas. 
+- **QA –** Cuida da qualidade do Software, deve ter conhecimento sobre as atividades do projeto além de ter um perfil analítico.
+            •	Se não possui nem um bug no código;
+            •	Se o código retorna exatamente o que foi pensado;
+            •	Se o caminho está sendo feito da maneira correta.
+            •	Relatórios de erro.
+- **Infraestrutura – SysAdmin**
+**_DataCenter_** (como era conhecido antigamente) é um local onde tem uma grande quantidade de servidores, são computadores especiais que conseguem tratar uma grande quantidade de requisições e consegui responder em tempo hábil.  
+O servidor pode ser alugado ou pode ser comprado, dependendo do custo ou você usa uma nuvem pública ou privada.
+Para se ter uma nuvem privada é necessário ter um hardware para isso, são computadores especiais que são conhecidos como servidores, tendo torres horizontais como verticais.
+Quem tem uma nuvem privada é necessário ter os seguintes profissionais e atividades...
+            •	Segurança da informação (lógica e física);
+            •	Mão de ora especializada (software e hardware) tem um sistema operacional especifico para servidores(Windows Server);
+            •	Infraestrutura local;
+Quando o desenvolvimento é finalizado é o profissional de infraestrutura que vai colocar e produção deixando o servidor ativo.
+- **Cloud (Nuvem) –** São sistemas de armazenamento de dados disponibilizados via internet.
+            • Nuvem pública – empresas que oferecem o serviços(computadores deles”servidores”) e você paga esses computadores para utilizar. Ex. Amazon WebSerces, Oracle Cloud, Google Cloud Platform, Azure e Salesforce (além de ser software tbm fornece serviços de nuvem).
+- **Mobile –** Temos o Front e o Back End, o Back End é o mesmo desenvolvimento e as vezes o mesmo dev. Back pode atender o tanto quando web quanto o mobile. O que muda é o Front End.
+Temos a plataforma para desenvolvimento para Android e para IOS.
+            • Android – linguagem de programação Java e/ou Kotlin
+            • IOS – linguagem de programação Swift.
+- **Desenvolvimento Hibrido (web)** - Gero um aplicativo web encapsulado no aplicativo. Com um único código consegui gerar aplicativos de ambos os dispositivos.Ex. Ionic, Flutter e React Native.
+
+      
+
+
+
+
+
 
   
