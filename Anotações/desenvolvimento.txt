@@ -1,0 +1,15 @@
+- **UX Designer (experiência do usuário)** – Melhorar a satisfação do usuário, melhorar a usabilidade e acessibilidade. Vai entender quem são as pessoas que vão usar este software através de pesquisa (idade,sexo, etc...).
+
+​           Ex. pesquisa, protótipos, personas e objetivos. 
+
+- **UI Designer (User Interface – Interface do usuário)** – Cores, tipografias, microinterações e estilos – qual as melhores cores e fonte para cada lugar, sempre pensando na persona(usuário).
+
+​            _Trabalha com Photoshop, Ilustraiter, CoreDraw._
+
+​            Ex. Design, tipografia, cores e layouts.
+
+- **Front End –** Parte visual que o usuário pode interagir.
+
+  ​      Tecnologias base da Web (HTML, CSS e JavaScript).
+
+  
