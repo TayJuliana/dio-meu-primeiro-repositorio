@@ -1,1 +1,1 @@
-# DIO-Meu primeiro repositorio Git/GitHub
+# Meu primeiro repositorio Git/GitHub
