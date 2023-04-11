@@ -1,0 +1,55 @@
+## Pensamento Computacional
+
+- Sistemático e eficiente
+
+- Formulação e resolução de problemas
+
+- Que um humano e uma máquina sejam capazes de resolver
+
+- Não é uma disciplina acadêmica 
+
+- É uma habilidade generalista (matemática, leitura e escrita)
+
+**Decomposição**: pegar um problema com certo nível de complexidade e dividi-lo ou segmentá-lo de uma forma que você possa encontra-los de uma forma menor e resolvíveis, podendo resolver um ponto de cada vez ao invés de pegar o problema complexo por um todo.
+
+**Reconhecimento de padrões**: identificar similaridades e tendencias dentro de um contexto ou contextos distintos.
+
+**Abstração:** extrapolar o conceito de algum problema particular especifico para uma forma generalista.
+
+**Algoritmos:** passo a passo da definição do problema.
+
+
+
+_**Habilidades complementares**_
+
+- Raciocínio lógico 
+
+- Aperfeiçoamento
+
+O Raciocínio lógico é uma habilidade que deve ser treinada.
+
+
+
+**Classificação:**
+
+·     **Indução –** você induz que algo acontece a partir de uma observação(Leis e teorias), Ciência experimentais – imperismo – Eu vejo algo acontecendo por isso eu determino uma lei ou teoria. Ex. Pólvora descoberta por acidente na china
+
+·     **Dedução –** É o trabalho inverso da indução onde as leis e teorias você deduz previsões e explicações para aquele fenômeno; Esse tipo de situação é usadado em ciências exatas como álgebra 
+
+·     **Abdução -** A partir de uma conclusão você tira a premissa, observado você supõe outra coisa. Ex. A grama está molhada, logo deve ter chovido. Esse tipo de técnica é muito usada no processo investigativo e diagnóstico como usado por investigadores.
+
+
+
+**Sintética – Construção**
+
+**Analítica – Analise**
+
+**Abdução – Conclusão**
+
+**Indução – Experimentação**
+
+**Dedução – Dedução**
+
+
+
+ 
